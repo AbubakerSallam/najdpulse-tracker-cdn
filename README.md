@@ -79,3 +79,4 @@ For issues with the tracker, please contact the NajdPulse development team.
 ---
 
 **NajdPulse** — AI Sales Assistant & Store Intelligence for Salla
+# Cache bust: Sun Dec 21 17:13:56 +03 2025
